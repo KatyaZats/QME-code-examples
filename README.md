@@ -1,4 +1,4 @@
-Here are code examples from the *Quantum Mpemba Effect with Josephson Junctions* project.
+Here are code examples from the *Quantum Mpemba Effect (QME) in Josephson Junctions* project.
 
 The repository contains three notebooks corresponding to different orbital numbers and physical parameters:
 
